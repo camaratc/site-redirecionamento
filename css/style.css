@@ -13,13 +13,13 @@
 
 .card{
     border: solid;
-    border-color: #5a5a5a;
+    border-color: #283593;
     border-radius: 7px;
     transition: border-color 0.75s ease-in-out;
 }
 
 .card:hover{
-    border-color: #283593;   
+    border-color: #00AEEE;   
 }
 
 .card-image{
