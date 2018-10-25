@@ -3,7 +3,6 @@
 }
 
 body {
-    color: #363636;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
@@ -24,7 +23,7 @@ main {
 
 .card{
     border: solid;
-    border-color: #283593;
+    border-color: #E3E3E3;
     border-radius: 7px;
     transition: border-color 0.75s ease-in-out;
 }
@@ -35,4 +34,8 @@ main {
 
 .card-image{
     border-radius: 3px;
+}
+
+.cinza{
+    background-color: #E3E3E3;
 }
