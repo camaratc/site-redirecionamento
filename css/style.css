@@ -39,3 +39,8 @@ main {
 .cinza{
     background-color: #E3E3E3;
 }
+
+.img-logo{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
